@@ -1,5 +1,5 @@
 # React & Tailwind CSS Starter Pack
-# Video For this Project - https://www.youtube.com/watch?v=QFaZlAYKDcI
+
 This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
 
 ## Usage
@@ -8,7 +8,7 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
+      git clone https://github.com/codehubaman/Coder-Academy-main.git
     ```
 
 1. Install the required packages.
